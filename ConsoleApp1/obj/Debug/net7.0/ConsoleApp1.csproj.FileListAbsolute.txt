@@ -1,0 +1,14 @@
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\uzuno\OneDrive\Документи\idk\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
